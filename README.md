@@ -2,7 +2,7 @@
 # MACD, CMF + Supertrend strategy for Trading View
 A TradingView long strategy made with PineScript
 
-![Plejd Ichimoku, Supertrend and Smart MA signals](Plejd.JPG)
+![OEM International MACD, CMD + Supertrend strategy Tradingview screenshot](macd_cmd_supetrend_oem_international.jpg)
 
 ## Overview
 
